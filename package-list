@@ -1,0 +1,10 @@
+pl.edu.agh.marsexplorer
+pl.edu.agh.marsexplorer.api.v1
+pl.edu.agh.marsexplorer.configuration
+pl.edu.agh.marsexplorer.configuration.security
+pl.edu.agh.marsexplorer.model.domain
+pl.edu.agh.marsexplorer.repositories
+pl.edu.agh.marsexplorer.service
+pl.edu.agh.marsexplorer.service.impl
+pl.edu.agh.marsexplorer.tests
+pl.edu.agh.marsexplorer.tests.base
